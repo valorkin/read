@@ -4,6 +4,9 @@
 ### books
 1. [ng-book 2: The Complete Book on Angular 2](https://gumroad.com/d/a6d228acd3994b2acb0ca7f4087758b1)
 
+### blogs
+1. [Thoughtram Blog](http://blog.thoughtram.io/)
+
 ## Reactive programming
  1. [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
   - rxjs 4
