@@ -6,6 +6,7 @@
 
 ### blogs
 1. [Thoughtram Blog](http://blog.thoughtram.io/)
+2. [VICTOR SAVKIN Blog](http://victorsavkin.com/)
 
 ## Reactive programming
  1. [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
