@@ -8,6 +8,10 @@
 1. [Thoughtram Blog](http://blog.thoughtram.io/)
 2. [VICTOR SAVKIN Blog](http://victorsavkin.com/)
 
+### twitter
+1. [Pascal Precht](https://twitter.com/PascalPrecht) author of Thoughtram Blog
+2. [Patric JS](https://twitter.com/gdi2290) maintainer of [Angular Class](https://angularclass.com/)
+
 ## Reactive programming
  1. [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
   - rxjs 4
