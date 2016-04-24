@@ -16,7 +16,7 @@
 ### twitter
 1. [Pascal Precht](https://twitter.com/PascalPrecht) author of Thoughtram Blog
 2. [Patric JS](https://twitter.com/gdi2290) maintainer of [Angular Class](https://angularclass.com/)
-
+3. [5thingsAngular](https://twitter.com/5thingsAngular) weekly news about angular2 
 
 ## Reactive programming
  1. [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
