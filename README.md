@@ -1,6 +1,11 @@
 # read
 
 ## JavaScript
+
+## books
+1. [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
+2. [Exploring ES6: Upgrade to the next version of JavaScript](http://exploringjs.com) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
+
 ## twitter
 1. [Axel Rauschmayer](https://twitter.com/rauschma)
 2. [Nicholas C. Zakas](https://twitter.com/slicknet)
