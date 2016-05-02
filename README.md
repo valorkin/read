@@ -9,6 +9,7 @@
 ## twitter
 1. [Axel Rauschmayer](https://twitter.com/rauschma)
 2. [Nicholas C. Zakas](https://twitter.com/slicknet)
+3. [Minko Gechev](https://twitter.com/mgechev)
 
 ## Angular 2
 ### books
